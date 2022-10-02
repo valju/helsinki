@@ -7,14 +7,12 @@ On your own and we could also organize common ones too. More ideas and info poss
 
 * Museokortti.fi Museum card museum. Pay some 74 euros a year and you can visit over 300 museums in Finland, many of them in Helsinki area.
 
-* Historic sites like e.g. the Helsinki air defence installations 1939-1944. Like e.g. batteries at several hills. Best restored one at Taivaskallio hill. Usually on nice hilly and parklike places.
+* Historic sites like e.g. the Helsinki air defence installations 1939-1944. Like e.g. batteries at several hills. Best restored one at Taivaskallio hill. Usually on nice hilly and parklike places. this one could be accompanied with: 
 
-* Previous one could be accompanied with: 
-
-1. Tuusula antiaircraft museum
-1. a 30min documentary film 
-1. a booklet called "Helsingin ilmatorjunnan taistelupaikat 
-1. Airshelter museum at Kruunuhaka next to Hakaniemi 
+    1. Tuusula air defence museum
+    1. 30min documentary film "Helsingin ilmatorjunnan torjuntavoitto 1944"
+    1. Booklet called "Helsingin ilmatorjunnan taistelupaikat" 
+    1. Airshelter museum at Kruunuhaka next to Hakaniemi, "Väestönsuojelumuseo" 
 
 
 [back](README.md)
