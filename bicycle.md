@@ -12,7 +12,7 @@
 
 **'Disclaimer 1:'**  Electrically assisted **e-bikes** are now in. They always pass me in uphill like I would not even be moving... But they also cost a lot and maintenance requires professionals.
 
-**'Disclaimer 2:'** Before e-bikes the so called **fat bikes** were popular. Fat big tire that makes it easy to ride in the terrain. And seems you can also use it in snow or slush winter time. But again a bit more expensive, and I have no expertice on them.
+**'Disclaimer 2:'** Before e-bikes the so called **fat bikes** were popular. Fat big tire that makes it easy to ride in the terrain. And seems you can also use it on snow or slush winter time. But again a bit more expensive, and I have no expertice on them.
 
 **'Disclaimer 3:'** In traditional bikes, many people like the 18-21-27-speed bicycles that have e.g. 3 sprockets=chainwheels in front and 6-9 sprockets at the back. They are extremely light on gear 1 and overall resistance/powerloss caused by the gears and axels is minimal.
 
