@@ -15,4 +15,11 @@ Test: You want to be seen from the corner of the eye of the car drivers too. And
 
 * **Move so that nobody CAN hit you.** Yes, that is my advice to cyclist. Ride so that not only is it possible for car drivers to avoid you (if they are not drunk or tired or texting), but ride so that they cannot hit you (if the are drunk or tired or texting or road raging)
 
+* **Show clearly and slowly your handsigns.** Especially show long before you turn where you gonna turn and until you have moved. If you are going straight over some crossing then point straight over towards your target.
+
+* **Get a feel of your bike and its breaks.** Test the breaks for real where you can safely do it. Practice full panic breaking. Because need for that **will** occur.
+How does breaking work in loose sand? Make sure to brake mostly with the back breaks. Some bicycles have pedal brake, then learn to use **mainly the pedal brake**. Otherwise a guaranteed accident is waiting!
+
+* **Go around the forest path corners thinking that there are two bikes** around the blind corner. Just some time ago there were **three** side by side as people were passing a couple! So adjust your speeds around corners and crossroads. Things happen! And what if there is loose sand at the same point?
+
 [back](README.md)

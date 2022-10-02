@@ -4,17 +4,17 @@
 
 I'll edit and improve all this info based on the questions and discussions.
 
-[bicycles](bicycle.md)
+[bicycle to buy](bicycle.md)
 
 [when you by broken bike, or yours is broken - fixing party](bicycle_fixing_party.md)
 
-[cycling in rain - clothing question](bicycle_rain.md)
+[cycling in rain - just a clothing question](bicycle_rain.md)
 
-[cycling in wintertime - winter tires recommended](bicycle_winter.md)
+[cycling in wintertime - winter tires recommended, clothing too](bicycle_winter.md)
 
-[suggested bicycle or other tours in Helsinki](destinations.md)
+[some suggested bicycle or other tours around Helsinki](destinations.md)
 
-[bicycle safety opinions](bicycle.md)
+[cycling safety opinions](bicycle.md)
 
 
 
