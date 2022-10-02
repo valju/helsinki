@@ -1,7 +1,7 @@
 [back](README.md)
 # Thoughts and opinions about bicycle and cycling in Helsinki
 
-* With Russia's 2022 war against Ukrainians (and also the energy war attempted against Europeans) cutting the oil/fuel/gas consumption sounds like a interesting and fascinating idea.
+* Because of the 2022 attack against Ukrainians showing the Sochi bunker rat a middle finger by cutting the fuel consumption starts to a fascinating idea.
 
 * Most of us also could benefit of losing some weight (less injuries, more energy, better concentration and cognitive skills, more normal hormone activity)
 
