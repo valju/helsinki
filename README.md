@@ -10,5 +10,8 @@ I'll edit and improve all this info based on the questions and discussions.
 
 [cycling in wintertime - winter tires recommended](bicycle_winter.md)
 
+[suggested bicycle or other tours in Helsinki](destinations.md)
+
+
 
 

@@ -1,4 +1,4 @@
-[back](.)
+[back](README.md)
 # Thoughts and opinions about bicycle and cycling in Helsinki
 
 * With Russia's 2022 war against Ukrainians (and also the energy war attempted against Europeans) cutting the oil/fuel/gas consumption sounds like a interesting and fascinating idea.
@@ -28,4 +28,4 @@
 
 * You want later all of your tubes of all the bikes be with same valve! Helps in bringing just one small air pump with you.
 
-[back](.)
+[back](README.md)
