@@ -3,7 +3,7 @@
 
 On your own and we could also organize common ones too. More ideas and info possibly added later
 
-* Helsinki 1952 locations around. There are a lot of related sites. There is "Helsingin Olympialaiset 1952. Tapahtumat kartalla" or so named map in some bookstores. I have two copies.
+* Helsinki 1952 Olympic Games locations all around. There are a lot of related sites. There is "Helsingin Olympialaiset 1952. Tapahtumat kartalla" or so named map in some bookstores. I have two copies.
 
 * Museokortti.fi Museum card museum. Pay some 74 euros a year and you can visit over 300 museums in Finland, many of them in Helsinki area.
 
