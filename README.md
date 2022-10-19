@@ -6,7 +6,7 @@ Ask more if needed! Or tell if a possible mistake somewhere. Thanks!
 
 [Bicycle to buy](bicycle.md)
 
-[When you by broken bike, or yours is broken - fixing party](bicycle_fixing_party.md)
+[When you buy a broken bike, or your bike is broken - fixing party](bicycle_fixing_party.md)
 
 [Cycling in rain - Just a clothing question](bicycle_rain.md)
 
