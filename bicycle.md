@@ -28,6 +28,8 @@
 
 * You want later all of your tubes of all the bikes be with same valve! Helps in bringing just one small air pump with you.
 
-* (You can make back-hub gears lighter by replacing the 16-17 teeth single back sprocket with one with 24-25 teeth. Divide the first number by the second to get the final pedaling force needed, e.g. 17/24 would give just 71% power of original needed, makes rather big difference)
+* (You can make back-hub gears lighter by replacing the 16-17 teeth single back sprocket with one with 24-25 teeth. Divide the first number by the second to get the final pedaling force needed, e.g. 17/24 would give just 71% power of original needed, makes rather big difference. 
+
+Actuallt possibly the lightening effect is even greater. As the 17-teeth original sprocket makes the chain twist tight, where as 24-teeth sprocket is bigger and chain runs around it smoother.)
 
 [back](README.md)
