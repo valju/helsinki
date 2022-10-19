@@ -8,7 +8,7 @@
 * Cycling is good for blood circulation too. Blood circulates also via brain! Even if as a sole sport not good for the back, so other sports need to be added.
 
 ## You can cycle all around the year in Helsinki
-### Here is my basic bicycle opinions - But you are fine buying any that does not follow my opinions too
+### Here are my basic bicycle opinions - But you are fine buying any that does not follow my opinions too
 
 **'Disclaimer 1:'**  Electrically assisted **e-bikes** are now in. They always pass me in uphill like I would not even be moving... But they also cost a lot and maintenance requires professionals.
 
